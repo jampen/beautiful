@@ -1,2 +1,2 @@
 # Beautiful 🐍
-## An easy to use python library for beautiful CLI
+## An easy to use python library for colorful UI
