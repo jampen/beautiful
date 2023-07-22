@@ -27,7 +27,7 @@ print(well_done.rendered())
 ```
 ### Result of this example:
 ![Example usage, showing two lines of orange text, 'Congratulations!' and 'Well done!', with a star graphic at the beginning](/demos/title_py_result.png "Our result")
-## 2. Creating a bullet list (demos/bullet.py)
+## 2. Creating a bullet point list (demos/bullet.py)
 ```py
 from src.list import BulletPointBuilder
 from src.style clearimport Style
