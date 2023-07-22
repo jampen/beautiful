@@ -19,6 +19,7 @@ class ANSI:
         'orange': '\u001b[38;5;208m',
         'darkorange': '\u001b[38;5;130m',
         'darkgreen': '\u001b[38;5;28m',
+        'purple': '\u001b[38;5;92m',
     }
 
     RESET_ANSI = '\u001b[0m'
