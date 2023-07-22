@@ -101,7 +101,7 @@ print(colors.rendered())
 ```
 ### Result of this example:
 ![Example usage, showing a bullet point list of rainbows, with the title having a start icon of a raining cloud and an end icon of a sun"](/demos/bullet_titled_py_result.png "Our result")
-## 2.2 Adding colors to each bullet point (demos/bullet__colored)
+## 2.2 Adding colors to each bullet point (demos/bullet_colored.py)
 ```py
 # To create a title
 from src.title import TitleBuilder
